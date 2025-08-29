@@ -47,7 +47,7 @@ print(book3.get_book_info())
 
 
 #Question 2 solution.
-# 🎭 Polymorphism Challenge
+# Polymorphism Challenge
 
 class Animal:
     def move(self):
@@ -74,3 +74,4 @@ animals = [Dog(), Bird(), Fish()]
 
 for animal in animals:
     print(animal.move())
+
